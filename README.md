@@ -1,0 +1,2 @@
+This is a simple and easy recipe for making homemade chocolate.
+Get the required ingredients mentioned in INGREDIENTS.md and follow the steps given in recipe.md to make delicious homade chocolate bars in the most easiest way.
